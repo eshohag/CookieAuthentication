@@ -1,0 +1,2 @@
+# CookieAuthentication
+Cookie based Authentication
